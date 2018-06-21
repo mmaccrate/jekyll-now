@@ -9,7 +9,7 @@ name: Max MacCrate
 description: Sax, Statistics, and Engineering
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/mmaccrate/mmaccrate.github.io/blob/master/images/profilephoto.PNG
+avatar: https://github.com/mmaccrate/mmaccrate.github.io/blob/master/images/profilephoto.PNG?raw=true
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: mmaccrate
   instagram:
-  linkedin: https://www.linkedin.com/in/max-maccrate-565352122/
+  linkedin: max-maccrate-565352122
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
